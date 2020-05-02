@@ -2,7 +2,7 @@
 Planilha de controle de cardápio X ingredientes X compras
 
 ## Modele em uso
-[Cardapio_modelo](https://github.com/ailtonz/xlsx_Cardapio/blob/master/CARDAPIO_v05.xlsx)
+[Cardapio_modelo](https://github.com/ailtonz/xlsx_Cardapio/blob/master/CARDAPIO_v06.xlsx)
 
 * **Cardapio**
   * Definição da receitas por refeição
